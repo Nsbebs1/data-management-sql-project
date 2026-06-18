@@ -1,6 +1,5 @@
 -- Data Management Platform SQL Project
 
-CREATE DATABASE DataManagementDB;
 
 CREATE TABLE DataSources (
     SourceID INT PRIMARY KEY,
